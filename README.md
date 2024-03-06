@@ -9,4 +9,9 @@
 
 ![dark2x](https://github.com/rizwan-r-r/rizwan-r-r/assets/132520847/f9b65dcc-03b5-4efd-b02a-5647d7633b8b)
 
+<<<<< circleci-project-setup
 This site was built using [GitHub Pages](https://pages.github.com/)
+=======
+
+This site was built using [GitHub Pages](https://pages.github.com/)
+>>>>>

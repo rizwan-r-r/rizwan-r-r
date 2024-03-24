@@ -1,4 +1,4 @@
-## The Future Today 
+# The Future Today 
 ## [GitHub Pages](https://pages.github.com/)
 
 [![](https://jitpack.io/v/termux/termux-app.svg)](https://jitpack.io/#termux/termux-app)
